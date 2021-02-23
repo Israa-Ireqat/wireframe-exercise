@@ -1,0 +1,64 @@
+* {
+ box-sizing: border-box;
+}
+header nav{   
+background-color: dimgray;
+padding: 10px;
+box-sizing: border-box;
+display: block;
+width: 100%;
+height: 90px;
+}
+header nav img{
+float:left;
+}
+
+header nav p{
+text-align:center;
+display: inline-block;
+width: calc(100%/5);
+text-transform: capitalize;
+padding-top: 10px;
+}
+main div img {
+width:calc(100%);
+padding-left: 20px;
+padding-right: 20px;
+margin: 30px;
+overflow: auto;
+}
+main section img{
+width:calc(100% / 3);
+float: left;
+padding:10px;
+}
+main section{
+  padding: 5px;  
+  overflow: auto;
+}
+main article{
+    display:block;
+    height: 400px;;
+}
+main article img{
+    float:left;
+}
+main article p{
+text-align: center;
+display:block;
+overflow-y: scroll ;
+height: 340px; ;
+}
+
+button {
+background-color: dimgray;
+border-color: black;
+margin: 15px;
+padding: auto;
+}
+
+footer {
+width: 100%;
+height: 70px;
+background-color: dimgray;
+}
