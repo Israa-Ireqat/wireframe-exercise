@@ -1,8 +1,12 @@
 * {
  box-sizing: border-box;
  align-content: center;
-}
 
+ 
+}
+header{
+  background-image: url(https://www.ilovewallpaper.ie/images/new-studio-romantic-flower-floral-wallpaper-pink-white-p7423-25239_image.jpg);
+}
 header nav img{
 float:left;
 }
@@ -16,8 +20,8 @@ padding-top: 10px;
 }
 main div img {
 width:calc(100%);
-margin: 30px;
 overflow: auto;
+margin-right: 30px;
 }
 main section img{
 width:calc(100% / 3);
@@ -45,7 +49,7 @@ width: calc(100%/2);
 text-align: center;
 display:block;
 overflow-y: scroll ;
-height: 330px;
+height: 300px;
 }
 
 button {
@@ -58,7 +62,7 @@ padding: auto;
 footer {
 width: 100%;
 height: 70px;
-background-color: dimgray;
+background-image: url(https://www.ilovewallpaper.ie/images/new-studio-romantic-flower-floral-wallpaper-pink-white-p7423-25239_image.jpg);
 }
 * {
   box-sizing: border-box;
