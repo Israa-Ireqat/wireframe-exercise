@@ -52,21 +52,14 @@ overflow-y: scroll ;
 height: 300px;
 }
 
-button {
-background-color: dimgray;
-border-color: black;
-margin: 15px;
-padding: auto;
-}
+
 
 footer {
 width: 100%;
 height: 70px;
 background-image: url(https://i.pinimg.com/originals/b3/78/01/b3780133341d7eb0dcb6815cf331a96a.jpg);
 }
-* {
-  box-sizing: border-box;
-}
+
 
 body {
   width: 960px;
